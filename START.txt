@@ -1,0 +1,4 @@
+# ✅ INSTALLAZIONE LIBRERIE
+!pip install optuna xgboost shap scikit-learn lightgbm PyWavelets catboost stable-baselines3[extra] gym shimmy ta lxml pytrends
+
+%run main.py
